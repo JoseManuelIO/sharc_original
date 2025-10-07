@@ -3,6 +3,9 @@
 
 ![SHARC](https://github.com/user-attachments/assets/93d6d0fc-bfcf-4780-91d3-e4b2941cb94f)
 
+> **New to SHARC? 🚀** Check out the [Quick Reference Guide](docs/QUICK_REFERENCE.md) to learn what you can do with SHARC!
+>
+> **¿Nuevo en SHARC? 🚀** ¡Consulta la [Guía de Referencia Rápida](docs/QUICK_REFERENCE.md) para aprender qué puedes hacer con SHARC!
 
 In cyber-physical systems (CPSs), computation, communication, and control are tightly coupled. 
 Due to the complexity of these systems, advanced design procedures that account for these tight interconnections are vital to ensure safe and reliable operation of control algorithms under computational constraints. 
@@ -18,6 +21,7 @@ We use the simulation at each time-step to determine the computation time of the
 
 ## Table of Contents
 1. [Overview](#overview)
+1. [📖 Quick Reference: What Can I Do With SHARC?](docs/QUICK_REFERENCE.md) ⭐
 1. [Requirements](#requirements)
 1. [Repeatability Evaluation Package](#rep)
 1. [🚀 Quick Start](#quick-start)
